@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tracker-server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tracker-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
