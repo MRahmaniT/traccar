@@ -3409,3 +3409,65 @@ INSERT INTO tc_events(maintenanceId, positionId, eventTime, attributes, geofence
 2025-11-08 19:42:00  INFO: Skipping notifications for old event
 2025-11-08 19:42:00  INFO: [T38816d38] id: 8, time: 2025-06-17 19:18:12, lat: 35.64963, lon: 51.39526, speed: 24.3, course: 187.0
 2025-11-08 19:42:00  INFO: Stopping server...
+2025-11-08 20:45:43  INFO: Operating system name: Mac OS X version: 26.0.1 architecture: aarch64
+2025-11-08 20:45:43  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 24.0.2+12-54
+2025-11-08 20:45:43  INFO: Memory limit heap: 4096mb non-heap: 0mb
+2025-11-08 20:45:43  INFO: Character encoding: UTF-8
+2025-11-08 20:45:43  INFO: Version: 6.10.0
+2025-11-08 20:45:43  INFO: Starting server...
+2025-11-08 20:45:44  INFO: HikariPool-1 - Starting...
+2025-11-08 20:45:44  INFO: HikariPool-1 - Added connection conn0: url=jdbc:h2:./data/database user=SA
+2025-11-08 20:45:44  INFO: HikariPool-1 - Start completed.
+2025-11-08 20:45:44  INFO: Set default schema name to PUBLIC
+2025-11-08 20:45:44  INFO: Successfully acquired change log lock
+2025-11-08 20:45:44  INFO: Clearing database change log checksums for database h2
+2025-11-08 20:45:44  INFO: Successfully released change log lock
+2025-11-08 20:45:44  INFO: Command execution complete
+2025-11-08 20:45:44  INFO: Reading from PUBLIC.DATABASECHANGELOG
+2025-11-08 20:45:44  INFO: Reading from PUBLIC.DATABASECHANGELOG
+2025-11-08 20:45:44  INFO: Reading from PUBLIC.DATABASECHANGELOG
+2025-11-08 20:45:44  INFO: UPDATE SUMMARY
+2025-11-08 20:45:44  INFO: Run:                          0
+2025-11-08 20:45:44  INFO: Previously run:              28
+2025-11-08 20:45:44  INFO: Filtered out:                 0
+2025-11-08 20:45:44  INFO: -------------------------------
+2025-11-08 20:45:44  INFO: Total change sets:           28
+2025-11-08 20:45:44  INFO: Update summary generated
+2025-11-08 20:45:44  INFO: Command execution complete
+2025-11-08 20:45:45  INFO: jetty-12.1.1; built: 2025-09-08T04:29:45.457Z; git: b7068950f9afa5f1df80e46053eda1d982895b03; jvm 24.0.2+12-54
+2025-11-08 20:45:45  INFO: Session workerName=node0
+2025-11-08 20:45:45  INFO: Started oeje10s.ServletContextHandler@5529522f{ROOT,/,b=file:///Users/mohammad/Work_MGA/traccar-other-6.10.0/web/,a=AVAILABLE,h=oeje10s.SessionHandler@175ac243{STARTED}}
+2025-11-08 20:45:45  INFO: Started oeje10s.ServletContextHandler@5529522f{ROOT,/,b=file:///Users/mohammad/Work_MGA/traccar-other-6.10.0/web/,a=AVAILABLE,h=oeje10s.SessionHandler@175ac243{STARTED}}
+2025-11-08 20:45:45  INFO: Started oejs.ServerConnector@216be063{HTTP/1.1, (http/1.1)}{0.0.0.0:8082}
+2025-11-08 20:45:45  INFO: Started oejs.Server@6da9541c{STARTING}[12.1.1,sto=0] @1545ms
+2025-11-08 21:14:20  INFO: Operating system name: Mac OS X version: 26.0.1 architecture: aarch64
+2025-11-08 21:14:20  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 24.0.2+12-54
+2025-11-08 21:14:20  INFO: Memory limit heap: 4096mb non-heap: 0mb
+2025-11-08 21:14:20  INFO: Character encoding: UTF-8
+2025-11-08 21:14:20  INFO: Version: 6.10.0
+2025-11-08 21:14:20  INFO: Starting server...
+2025-11-08 21:14:20  INFO: HikariPool-1 - Starting...
+2025-11-08 21:14:21  INFO: HikariPool-1 - Added connection conn0: url=jdbc:h2:./data/database user=SA
+2025-11-08 21:14:21  INFO: HikariPool-1 - Start completed.
+2025-11-08 21:14:21  INFO: Set default schema name to PUBLIC
+2025-11-08 21:14:21  INFO: Successfully acquired change log lock
+2025-11-08 21:14:21  INFO: Clearing database change log checksums for database h2
+2025-11-08 21:14:21  INFO: Successfully released change log lock
+2025-11-08 21:14:21  INFO: Command execution complete
+2025-11-08 21:14:21  INFO: Reading from PUBLIC.DATABASECHANGELOG
+2025-11-08 21:14:21  INFO: Reading from PUBLIC.DATABASECHANGELOG
+2025-11-08 21:14:21  INFO: Reading from PUBLIC.DATABASECHANGELOG
+2025-11-08 21:14:21  INFO: UPDATE SUMMARY
+2025-11-08 21:14:21  INFO: Run:                          0
+2025-11-08 21:14:21  INFO: Previously run:              28
+2025-11-08 21:14:21  INFO: Filtered out:                 0
+2025-11-08 21:14:21  INFO: -------------------------------
+2025-11-08 21:14:21  INFO: Total change sets:           28
+2025-11-08 21:14:21  INFO: Update summary generated
+2025-11-08 21:14:21  INFO: Command execution complete
+2025-11-08 21:14:21  INFO: jetty-12.1.1; built: 2025-09-08T04:29:45.457Z; git: b7068950f9afa5f1df80e46053eda1d982895b03; jvm 24.0.2+12-54
+2025-11-08 21:14:21  INFO: Session workerName=node0
+2025-11-08 21:14:21  INFO: Started oeje10s.ServletContextHandler@175ac243{ROOT,/,b=file:///Users/mohammad/Work_MGA/traccar-other-6.10.0/web/,a=AVAILABLE,h=oeje10s.SessionHandler@51a719e7{STARTED}}
+2025-11-08 21:14:22  INFO: Started oeje10s.ServletContextHandler@175ac243{ROOT,/,b=file:///Users/mohammad/Work_MGA/traccar-other-6.10.0/web/,a=AVAILABLE,h=oeje10s.SessionHandler@51a719e7{STARTED}}
+2025-11-08 21:14:22  INFO: Started oejs.ServerConnector@e97f51c{HTTP/1.1, (http/1.1)}{0.0.0.0:8082}
+2025-11-08 21:14:22  INFO: Started oejs.Server@3691d4da{STARTING}[12.1.1,sto=0] @1629ms
